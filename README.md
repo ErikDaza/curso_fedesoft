@@ -2,14 +2,15 @@ Curso Desarrollo FULL STACK
 ===========================
 Repositorio de evidencias de las actividades desarrolladas en el curso de **Full Stack y Tecnologias Hibridas**, ofrecido por **Colciencias y Fedesoft**.
 
+<h2><img src="imagenes/phone.png">&nbsp;Prototipo y wireframe</h2> 
+<p>Desarrollar wireframe y mockup basico de una aplicacion movil.</p>
 
-## Prototipo y wireframe
-Desarrollar wireframe y mockup basico de una aplicacion movil.
+<h2><img src="imagenes/hoja.png">&nbsp;Pefil hoja de vida</h2> 
+<p>Crear un curriculum en html aplicando estilos (css).</p>
 
-## Pefil hoja de vida
-Crear un curriculum en html aplicando _estilos (css)_.
-
-## Clonar pagina web de Modulo Desk
+<h2><img src="imagenes/programando.png">&nbsp;Clonar pagina web de Modulo Desk</h2> 
+<p>Crear un curriculum en html aplicando estilos (css).</p>
+## 
 Clonar la página web https://www.modulosdesk.com web con el uso de _estilos (css) y javascript (js)_.
 
 ## Simular gol en html
