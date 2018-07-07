@@ -8,9 +8,8 @@ Repositorio de evidencias de las actividades desarrolladas en el curso de **Full
 <h2><img src="imagenes/hoja.png">&nbsp;Pefil hoja de vida</h2> 
 <p>Crear un curriculum en html aplicando estilos (css).</p>
 
-<h2><img src="imagenes/programando.png">&nbsp;Clonar pagina web de Modulo Desk</h2> 
-<p>Crear un curriculum en html aplicando estilos (css).</p>
-## 
+<h2><img src="imagenes/programando.png">&nbsp;Clonar pagina web de Modulo Desk</h2>
+
 Clonar la página web https://www.modulosdesk.com web con el uso de _estilos (css) y javascript (js)_.
 
 ## Simular gol en html
