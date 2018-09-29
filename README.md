@@ -2,7 +2,7 @@ Curso Desarrollo FULL STACK
 ===========================
 Repositorio de evidencias de las actividades desarrolladas en el curso de **Full Stack y Tecnologias Hibridas**, ofrecido por **Colciencias y Fedesoft**.
 
-## <h2><img src="imagenes/phone.png">&nbsp;Prototipo y wireframe</h2> [+](1_prototipo)
+## <img src="imagenes/phone.png"> Prototipo y wireframe [+](1_prototipo)
 Desarrollar wireframe y mockup basico de una aplicacion movil.
 
 <h2><img src="imagenes/hoja.png">&nbsp;Pefil hoja de vida</h2>
